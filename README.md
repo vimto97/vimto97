@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vimto97
 - 👀 I’m interested in IOS development.
-- 🌱 I’m currently learning node js.
+- 🌱 I’m currently learning ASP.NET Core Razor.
 
 <!---
 vimto97/vimto97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
